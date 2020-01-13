@@ -8,7 +8,7 @@
 title: Aoede Linux
 email: admin@aoede
 description: >- # this means to ignore newlines until "baseurl:"
-Documentation and updates for the Aoede Linux project, an Arch Linux audio distribution
+  Documentation and updates for the Aoede Linux project, an Arch Linux audio distribution.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://atrusofthefuture.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @indignadosmedia
