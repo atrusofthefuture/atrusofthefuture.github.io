@@ -8,8 +8,6 @@
 title: Aoede Linux
 email: admin@aoede
 description: >- # this means to ignore newlines until "baseurl:"
-An Indignados Media production:
-
 Aoede Linux, an Arch Linux-based audio distribution
 
 Aoede aims to satisfy the needs of serious audio producers with a no-frills approach to UI based on Arch-way minimalism and FLOSS audio software.
