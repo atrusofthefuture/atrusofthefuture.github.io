@@ -22,3 +22,5 @@ So far I have barely scratched the surface of what I can do, partly due to the f
 The core concept is that in the process of having an image analyzed for classification -- say, determining if the image is of a dog or a cat -- a number of features are "extracted" from the image. Which features these are depends on the architecture of the particular neural network algorithm chosen. Conveniently for us, these extracted "weights" are available to us at an intermediate stage in the classification process for use in other, more creative pursuits. Like, for example, transferring the "style" of one image onto the "content" of another image.
 
 It's obvious with some examples. Take the image at top: for style we have Paul Cezanne's "Les jouers de carte", and for content an image of a frog.
+
+More on the way. Also check out my repo "tf-nst" for additional examples.
