@@ -6,6 +6,7 @@ title: neural style
 * in which we discuss art, generative and otherwise
 
 ![a preliminary example of nerual style transfer with tf.keras](https://atrusofthefuture.github.io/assets/images/litoria_output_final.png)
+![comparison of content and style images](https://atrusofthefuture.github.io/assets/images/litoria_output.png)
 
 I've been toying with the idea of generative art for some time now. The unpredictable nature of the final product of a generative algorithm lends a freshness to the thing that is difficult to accomplish in traditional modes. Whether or not it is authentically art is a question I've tried to ignore generally, in favor of experimentation with new techniques and tools.
 
