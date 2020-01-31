@@ -1,0 +1,14 @@
+---
+layout: post
+title: neural style pt. 2
+---
+
+* in which we expand our understanding of neural nets
+
+I'll admit my expertise with neural networks is limited; as I mentioned in the last post I haven't necessarily had an application in mind and avoid making things any more complicated than absolutely necessary.
+
+A rudimentary model of a neural network looks something like this:
+
+![basic neural network](<url>)
+
+The technique takes its name from neuroscience, and inherits much of its sensibility from probability and statistics. Developments in mathematics like Bayesian inference and linear regression paved the way for the kind of artificial intelligence used in image classification, predictive 
